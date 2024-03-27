@@ -1,0 +1,21 @@
+{
+  "name": "lineworks_jwt",
+  "version": "1.0.0",
+  "main": "lineworks_jwt.mjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.4.0",
+    "sinon": "^17.0.1"
+  },
+  "description": ""
+}

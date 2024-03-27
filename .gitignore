@@ -1,0 +1,6 @@
+node_modules
+.vscode
+
+privatekey.pem
+package-lock.json
+.env
